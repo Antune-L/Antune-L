@@ -26,3 +26,4 @@ I'm currently a science computer student at Université de Paris (Final year of 
 * JS, Node.js, Vue.js
 * PHP
 * PSQL, MySQL
+* Git
