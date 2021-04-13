@@ -15,7 +15,7 @@ Link to my [LinkedIn](https://www.linkedin.com/in/antoine-liu-b528a520b/) and if
 
 ### WIP projects 🛠
 * ? - VueJS, Bootstrap, Node.js.. : ?
-* GASP - OCaml : Parsing, lexing program to draw figures.
+* GASP - OCaml : Parsing, lexing and interpreting program to draw figures from input files.
 * NetRadio - C, Java : A network project with multicasting, user and manager interactions.
 * NoName - PSQL : Modelisation of a E-Shop database.
 
