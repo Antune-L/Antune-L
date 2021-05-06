@@ -25,7 +25,7 @@ Link to my [LinkedIn](https://www.linkedin.com/in/antoine-liu-b528a520b/) and if
 * OCaml
 * Python
 * HTML, CSS
-* JS, JQuery, Node.js, Vue.js
+* JavaScript, JQuery, Node.JS, Express.JS, Vue.JS, React.JS
 * PHP
 * PSQL, MySQL
 * Git
