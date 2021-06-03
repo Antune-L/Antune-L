@@ -13,10 +13,10 @@ Link to my [LinkedIn](https://www.linkedin.com/in/antoine-liu-b528a520b/) and if
 * [L-System - OCaml](https://github.com/Antune-L/l-system) : A software used to draw L-System from input files.
 * [Maljae - Java](https://github.com/Antune-L/maljae) : An assignment program.
 * [GASP - OCaml](https://github.com/Antune-L/GASP) : Parsing, lexing and interpreting program to draw figures from input files.
+* [NetRadio - C, Java](https://github.com/Antune-L/Netradio) : A network project with multicasting, user and manager interactions.
 
 ### WIP projects 🛠
 * AkroLink - VueJS, Bootstrap, Node.js.. : A microblogging website.
-* NetRadio - C, Java : A network project with multicasting, user and manager interactions.
 * NoName - PSQL : Modelisation of an E-Shop database.
 
 ### Languages/Frameworks 📝
