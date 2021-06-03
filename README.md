@@ -18,6 +18,7 @@ Link to my [LinkedIn](https://www.linkedin.com/in/antoine-liu-b528a520b/) and if
 
 ### WIP projects 🛠
 * NoName - PSQL : Modelisation of an E-Shop database.
+* ? - React.JS : ?
 
 ### Languages/Frameworks 📝
 * Java
