@@ -18,7 +18,7 @@ Link to my [LinkedIn](https://www.linkedin.com/in/antoine-liu-b528a520b/) and if
 * [Elego - PSQL](https://github.com/Antune-L/elego) : Modelization of an E-Shop database of LEGO.
 
 ### WIP projects 🛠
-* ? - React.JS : ?
+* Grande Competizione - React.JS : A party-game website.
 
 ### Languages/Frameworks 📝
 * Java
