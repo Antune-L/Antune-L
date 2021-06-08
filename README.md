@@ -1,6 +1,6 @@
 ## Hello Antoine here 👋 
 
-I'm currently a science computer student at Université de Paris (Final year of the License) and mainly using scrum as a project management.
+I'm currently a science computer student at Université de Paris and mainly using scrum as a project management.
 
 Link to my [LinkedIn](https://www.linkedin.com/in/antoine-liu-b528a520b/) and if you want to send me a mail [here](mailto:ant.liu14@gmail.com).
 
