@@ -5,7 +5,7 @@ I'm currently a science computer student at Université de Paris and mainly usin
 Link to my [LinkedIn](https://www.linkedin.com/in/antoine-liu-b528a520b/) and if you want to send me a mail [here](mailto:ant.liu14@gmail.com).
 
 
-### Done projects 🎉
+### Projects 🎉
 * [TSH - C](https://github.com/Antune-L/tsh) : Implement a shell to use tarball as folders.
 * [Han'Flo - JS, Node.js, EJS..](https://github.com/Antune-L/hanflo) : Website to order custom/premade bouquets and as an employee prepare the custom bouquets.
 * [Calculator - Java](https://github.com/Antune-L/calculator) : Implement a calculator.
