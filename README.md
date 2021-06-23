@@ -16,7 +16,6 @@ Link to my [LinkedIn](https://www.linkedin.com/in/antoine-liu-b528a520b/) and if
 * [NetRadio - C, Java](https://github.com/Antune-L/Netradio) : A network project with multicasting, user and manager interactions.
 * [AkroLink - VueJS, Bootstrap, Node.js..](https://github.com/Antune-L/Akrolink) : A microblogging website inspired by *Twitter*.
 * [Elego - PSQL](https://github.com/Antune-L/elego) : Modelization of an E-Shop database of LEGO.
-* 
 
 ### Languages/Frameworks 📝
 * Java
