@@ -17,13 +17,27 @@ Link to my [LinkedIn](https://www.linkedin.com/in/antoine-liu-b528a520b/) and if
 * [AkroLink - VueJS, Bootstrap, Node.js..](https://github.com/Antune-L/Akrolink) : A microblogging website inspired by *Twitter*.
 * [Elego - PSQL](https://github.com/Antune-L/elego) : Modelization of an E-Shop database of LEGO.
 
-### Languages/Frameworks 📝
+### Skills 📝
+#### Front-end
+* HTML5, CSS, Bootstrap
+* PHP
+* JQuery
+* Vue.JS
+* React.JS
+
+#### Back-end
+* Node.JS
+* Express.JS
+* Spring boot
+
+#### SGBD
+* PostgreSQL
+* MySQL
+
+#### Programming languages
 * Java
 * C
 * OCaml
 * Python
-* HTML, CSS
-* JavaScript, JQuery, Node.JS, Express.JS, Vue.JS, React.JS
-* PHP
-* PSQL, MySQL
-* Git
+
+And of course git !
