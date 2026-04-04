@@ -1,30 +1,6 @@
 ## Hello Antoine here 👋 
 
-I'm currently a Full Stack Web Developer at For Me Lab.
+Currently @Galadrim as a Senior Fullstack Developer.
+Hands-on AI enthusiast, actively exploring and experimenting tools.
 
-Link to my [LinkedIn](https://www.linkedin.com/in/antoine-liu-b528a520b/) and if you want to send me a mail [here](mailto:ant.liu14@gmail.com).
-
-### Skills 📝
-#### Front-end
-* HTML5, CSS, Bootstrap
-* PHP
-* JQuery
-* Vue.JS
-* React.JS
-
-#### Back-end
-* Node.JS
-* Express.JS
-* Spring boot
-
-#### SGBD
-* PostgreSQL
-* MySQL
-
-#### Programming languages
-* Java
-* C
-* OCaml
-* Python
-
-And of course git !
+More informations on my [LinkedIn](https://www.linkedin.com/in/antoine-liu-b528a520b/) page.
